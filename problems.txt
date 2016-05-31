@@ -1,0 +1,25 @@
+1. poker problem
+
+inventory of concepts
+nahd
+card
+rank
+suit
+
+pocker(hands) -> hand
+hand rank 
+    n-kind
+    straight
+    flush
+    
+
+LESSON LEARNED
+1. understand the 
+2. define pieces
+3. reuse
+4. write tests
+5. explore design space
+ - correctness
+ - efficiency
+ - elegance
+ - features
